@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A software developer from Toronto</h3>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently working on **FullStackOpen**
 
 - 🌱 I’m currently learning **React**
 
