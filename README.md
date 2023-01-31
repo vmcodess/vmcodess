@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A software developer from Toronto</h3>
 
-- 🔭 I’m currently working on **FullStackOpen**
+- 🔭 I’m currently looking for a job as a **QA Analyst**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - ⚡ Fun fact **I love to do wheelies on my bike**
 
