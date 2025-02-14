@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Express.js**
 
-- ⚡ Fun fact **I love to do wheelies on my bike**
+- ⚡ Fun fact **I love to explore new hobbies! Right now I am hiking :)**
 
 <h3 align="left">Links to social media:</h3>
 <p align="left">
