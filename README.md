@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A software developer from Toronto</h3>
 
-- 🔭 I’m currently looking for a job as a **Software Engineer**
+- 🔭 I’m currently looking for a job as a **In anything IT -> Talk to people from other departments and transition into DevOPS or Cybersecurity!**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **a bunch of sh*t**
 
-- ⚡ Fun fact **I love to explore new hobbies! Right now I am hiking :)**
+- ⚡ Fun fact **I love to explore new hobbies! Right now I am 3D designing and 3D printing + making my own electronics project! Currently making an Air Quality Sensor to send data to HomeAssistant :)**
 
 <h3 align="left">Links to social media:</h3>
 <p align="left">
