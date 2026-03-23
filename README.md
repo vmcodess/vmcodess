@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A software developer from Toronto</h3>
 
-- 🔭 I’m currently looking for a job as a **In anything IT -> Talk to people from other departments and transition into DevOPS or Cybersecurity!**
+- 🔭 I’m currently looking for a job for **In anything IT -> Talk to people from other departments and transition into DevOPS or Cybersecurity! (Probably CyberSecurity - I find it more interesting :))**
 
-- 🌱 I’m currently learning **a bunch of sh*t**
+- 🌱 I’m currently learning **a bunch of sh*t. Following the roadmap.sh for Cyber Security.**
 
 - ⚡ Fun fact **I love to explore new hobbies! Right now I am 3D designing and 3D printing + making my own electronics project! Currently making an Air Quality Sensor to send data to HomeAssistant :)**
 
