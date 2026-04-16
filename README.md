@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">A software developer from Toronto</h3>
+<h3 align="center">A painter breaking into IT ( Do you have any break in tools I could borrow?? :D )</h3>
 
-- 🔭 I’m currently looking for a job for **In anything IT -> Talk to people from other departments and transition into DevOPS or Cybersecurity! (Probably CyberSecurity - I find it more interesting :))**
+- 🔭 I’m currently looking for a job in **IT**
 
-- 🌱 I’m currently learning **a bunch of sh*t. Following the roadmap.sh for Cyber Security.**
+- 🌱 I’m currently taking the **Information Technology Course** from CareerCourse
 
-- ⚡ Fun fact **I love to explore new hobbies! Right now I am 3D designing and 3D printing + making my own electronics project! Currently making an Air Quality Sensor to send data to HomeAssistant :)**
+- ⚡ Fun fact - **I just built my first 3D printed RC!**
+
+<h2>Most Recent Projects</h2>
+- Active Directory | Azure
+
 
 <!--
 <h3 align="left">Links to social media:</h3>
