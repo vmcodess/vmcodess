@@ -1,58 +1,85 @@
-<h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">A painter breaking into IT ( Do you have any break in tools I could borrow?? :D )</h3>
+<div align="center">
 
-- 🔭 I’m currently looking for a job in **IT**
+# Hi 👋, I'm Vladislav Matveev
 
-- 🌱 I’m currently taking the **Information Technology Course** from ***CareerCourse***
+### A passionate learner from Toronto
 
-- ⚡ Fun fact - **I just built my first 3D printed RC!**
+</div>
 
-<h2>Most Recent Projects</h2>
-- Active Directory | Azure
+## 🚀 About Me
 
+A painter breaking into IT/Cybersecurity. Do you have any break in tools I could borrow?
 
-<h2>Connect with me: </h2>
+## 📚 Learning & Knowledge
 
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&animation=shake&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvmcodes%2F)](https://www.linkedin.com/in/vmcodes/)
+<div align="left">
 
-<!--
-<h3 align="left">Links to social media:</h3>
-<p align="left">
-  
-- https://linkedin.com/in/vmcodes 
+- 🌱 I'm currently learning **about Information Technology through CareerCourse. Currently studying for the exam!**
 
-- https://instagram.com/vmcodes
--->
+</div>
 
-<!--<a href="https://linkedin.com/in/vmcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vmcodes" height="30" width="40" /></a>
-<a href="https://instagram.com/vmcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="vmcodes" height="30" width="40" /></a>
-</p>
--->
+## 🚀 Projects
 
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
--->
+| Project | Description | Links |
+|---|---|---|
+| osTicket Azure | Deployed a Windows-based help desk system in Microsoft Azure using IIS, PHP, and MySQL. Configured osTicket, managed user roles, and simulated real-world ticket workflows including SLA assignment, escalation, and resolution. | [GitHub](https://github.com/vmcodess/osTicket-Azure) |
+| Active Directory Azure | This project demonstrates the deployment and configuration of a Windows Active Directory environment hosted in Microsoft Azure. | [GitHub](https://github.com/vmcodess/Active-Directory-Azure/tree/main) |
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vmcodess&theme=tokyonight&layout=compact&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vmcodess&theme=tokyonight&repo=convoychat" />
-</a>
--->
-<!--
-**vmcodess/vmcodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### osTicket Azure
 
-Here are some ideas to get you started:
+**Technologies Used:** Microsoft Azure Virtual Machine (Windows 10), MySQL 5.5, osTicket v1.15.8, PHP 7.3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Active Directory Azure
+
+**Technologies Used:** Windows Server 2022 Domain Controller, Windows 10 Client Machine, Organizational Units (OUs), Group Policy Management, Shared Folder Permissions
+
+## 🎓 Education
+
+| Institution | Degree | Duration |
+|---|---|---|
+| Seneca Polytechnic | Diploma | 2019 - 2021 |
+
+### Diploma in Computer Programming
+*Seneca Polytechnic*
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **vmatveev123@gmail.com**
+
+</div>
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+*I recently just build my first 3D printed fully functional RC 6x6 MOG.*
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vmcodes)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/vmcodes/)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Other
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+<div align="center">
+
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=vmcodes&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
