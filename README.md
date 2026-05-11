@@ -11,6 +11,10 @@
 - Active Directory | Azure
 
 
+<h2>Connect with me: </h2>
+
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&animation=shake&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvmcodes%2F)](https://www.linkedin.com/in/vmcodes/)
+
 <!--
 <h3 align="left">Links to social media:</h3>
 <p align="left">
