@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for a job in **IT**
 
-- 🌱 I’m currently taking the **Information Technology Course** from CareerCourse
+- 🌱 I’m currently taking the **Information Technology Course** from ***CareerCourse***
 
 - ⚡ Fun fact - **I just built my first 3D printed RC!**
 
