@@ -54,7 +54,7 @@ A painter breaking into IT/Cybersecurity. Do you have any break in tools I could
 
 <div align="center">
 
-*I recently just build my first 3D printed fully functional RC 6x6 MOG.*
+*I recently just built my first 3D printed fully functional RC 6x6 MOG.*
 
 </div>
 
